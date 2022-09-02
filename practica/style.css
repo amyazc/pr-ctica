@@ -68,7 +68,7 @@ object-fit: cover;
             object-fit: cover;
             display: inline-flex;
            
-            }
+}
 
 .des{ /* formato div class des*/
 display: flex;
@@ -103,19 +103,25 @@ margin: 60px;
 
 footer{
     width: 100%;
-    height: 5rem;
+    height: 6rem;
     background-color: #2C3E50 ;
     color: white;
-    margin-bottom: 20px;
     text-align: center;
-    padding: 1rem;
+    padding-top: 2rem;
   }
 
 table{
     text-align: center;
-
+    width: 80%;
+    overflow-x: auto;  
+    border-collapse: collapse;
 }
 
 td{
-    text-align: justify;
+    text-align: center;
+    background-color: #acacac;
+    padding: 1rem;
+    border: 0.5rem #dbdbdb solid;
+    border-top: 0cm;
+    border-bottom: 0cm;
 }
