@@ -1,2 +1,2 @@
-# pr-ctica
-Pràctica respositorio con pàgina html
+# practica
+Práctica respositorio con página html
