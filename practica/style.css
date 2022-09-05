@@ -115,13 +115,14 @@ table{
     width: 80%;
     overflow-x: auto;  
     border-collapse: collapse;
+    table-layout: fixed;
 }
 
 td{
     text-align: center;
     background-color: #acacac;
     padding: 1rem;
-    border: 0.5rem #dbdbdb solid;
+    border: 0.5rem #d4d4d4 solid;
     border-top: 0cm;
     border-bottom: 0cm;
 }
